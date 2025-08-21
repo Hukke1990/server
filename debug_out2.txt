@@ -1,0 +1,399 @@
+﻿LISTA DE PRECIOS
+C├ôDIGO DESCRIPCI├ôN PRECIO 0 STOCK
+1 FRUTOS SECOS
+1 Nuez Mariposa Extra Light x5Kg 87,749.99 5.00
+2 Nuez Pecan PARTIDA x 1Kg 20,956.00 15.00
+4 Almendra Non Pareil Mediana 25/27 x 1Kg 19,198.47 106.00
+6 Almendra Guara Grande 23/25 17,508.39 4.00
+8 Nuez Mariposa Extra Light x 2Kg 37,700.00 0.00
+9 Nuez Pecan ENTERAx 1Kg 22,307.99 4.00
+10 OFERTA Nuez Extra Light x 10 Kg 144,716.00 3.00
+15 Avellanas 11/13 Turquia x 1Kg 26,688.48 2.00
+16 Casta├▒a de Caju W4 Naturales x 1Kg 16,088.80 -1.00
+18 Pasas de Uva C/Chocolate x 1Kg 20,401.67 35.00
+21 Pasas de Uva Jumbo Superior x 10Kg 61,516.88 7.00
+22 Pasas de Uva Flame/Sultanina x 10Kg 50,403.60 4.00
+28 Datiles C/Carozo MEDJOOL x 1Kg 24,066.90 24.00
+31 Empaque Mixto x 1Kg PECANES 9,834.40 4.00
+36 Papaya Multicolor x 1kg 5,969.66 0.00
+37 Datiles Con Carozo EGIPTO x 5Kg 31,980.30 4.00
+38 Datiles Sin Carozo EGIPTO x 5Kg 31,096.64 0.00
+148 Almendra Carmel Chile x 1Kg 17,914.00 89.00
+161 Pistacho Con Cascara x 1Kg PECANES 37,355.75 148.00
+170 Banana en Chip Deshidratadas x 2Kg 17,763.28 27.00
+208 Almendras C/Chocolate Blanco x1kg 30,406.48 24.00
+209 Mani C/Chocolate x 1Kg 16,318.63 29.00
+210 Almendra C/Chocolate Negro x 1Kg 33,340.32 34.00
+283 Ciruela Presidente Mediana x 5Kg 48,604.40 15.00
+284 Arandanos Deshidratados x 1Kg PECANES 10,546.97 19.00
+300 Medallon de Durazno x 1kg Pecanes 15,142.41 5.00
+596 DICOMERE Pasas de Uva Rubia x 2Kg 20,086.13 4.00
+607 DICOMERE Pasas de Uva Jumbo x 2kg 16,864.67 5.00
+608 DICOMERE Pasas de Uva Sultanina x 2kg 9,922.76 5.00
+868 DICOMERE Mix Tropical x 1Kg 11,319.66 10.00
+956 Ciruela D`Agen Sin Carozo 110/132 x 5Kg 39,546.01 54.00
+1185 Mix Especial Clasico x 2Kg PECANES 40,560.00 6.00
+1186 Mix Especial Economico x 2Kg PECANES 32,988.80 18.00
+1188 Mix Nacional x 2Kg PECANES 16,764.80 11.00
+1189 Mix Frutas Secas Economico x 2Kg PECANES 21,631.99 1.00
+1190 Mix Nacional C/Banana x 2Kg PECANES 17,690.40 21.00
+1191 Mix Tropical Clasico x 2Kg PECANES 25,417.60 0.00
+P├ígina Nro.: 1
+LISTA DE PRECIOS
+C├ôDIGO DESCRIPCI├ôN PRECIO 0 STOCK
+1192 Mix Tropical Economico x 2Kg PECANES 22,463.99 -1.00
+1193 Mix Frutas Secas Clasico x 2Kg PECANES 25,417.59 12.00
+1259 Peras Medianas x 1Kg PECANES 14,180.41 8.00
+1752 Higo Negros x 1kg PECANES 13,396.15 19.00
+1753 Higos Turco Lerida PECANES x 1kg 24,992.55 15.00
+1870 Tomate Deshidratado x 1Kg PECANES 13,198.68 9.00
+1871 Ciruela Dagen Sin Carozo x 1Kg 8,821.80 2.00
+3138 Pasas de Uva Jumbo RUBIA/ROSADA x 10Kg 59,488.00 0.00
+3139 Pasas Uva JUMBO Rosada/Rubia Chile x 2Kg 11,897.60 7.00
+2 SEMILLAS
+17 Semilla de Chia Premiun x 2Kg 12,540.96 52.00
+125 Girasol Pelado x 2Kg 8,461.53 45.00
+332 DICOMERE Hinojo Semillas x 1Kg 13,244.66 1.00
+376 Semilla de Zapallo AA Premiun x 1Kg 11,731.57 14.00
+377 Semilla de Zapallo A Premiun x 1Kg 9,828.23 0.00
+378 Semilla Psyllium/Zaragatona x 1Kg 15,600.13 0.00
+784 DICOMERE Mix Semilla x 200Gr 1,027.90 0.00
+943 AGROMAR Semilla de Lino x 5Kg 7,207.19 17.00
+953 DICOMERE Mix de Semilla x 5Kg 15,004.00 16.00
+1197 ANKAS Mix de Semillas x 5Kg 17,319.12 31.00
+1198 ANKAS Mix de Semillas x 1Kg 3,638.54 4.00
+1450 Semilla de Lino Dorado Organico x 2.5Kg 8,553.99 40.00
+1453 Semilla de Quinoa Real Blanca x 2Kg 16,925.48 53.00
+1455 DICOMERE Quinoa Tricolor x 200Gr SINTACC 2,630.06 0.00
+1457 DICOMERE Semilla Sesamo Blanco x 1Kg 9,466.89 2.00
+1467 Semilla de Sesamo Integral x 2Kg PECANES 6,582.40 47.00
+1624 DICOMERE Semilla Sesamo Negro x 1Kg 10,047.66 4.00
+2348 VIENTO NORTE Mijo Pelado x 5kg 8,923.20 3.00
+2349 VIENTO NORTE Alpiste P/Humano x5kg 20,273.25 3.00
+2350 VIENTO NORTE Bayas de Goji x 1kg 28,137.82 0.00
+2351 VIENTO NORTE Quinoa en Hojuelas x 1kg 10,633.48 0.00
+2353 VIENTO NORTE Quinoa Roja x 1kg 9,406.54 3.00
+2354 VIENTO NORTE Quinoa Negra x 1kg 9,733.72 3.00
+2380 VIENTO NORTE Chia Triturada x 1Kg 2,702.64 5.00
+2382 DICOMERE Semilla Chia x 1Kg 6,501.51 12.00
+2383 DICOMERE Girasol Pelado x 1Kg 3,067.35 4.00
+2384 DICOMERE Semilla Lino x 1Kg 2,280.85 16.00
+2385 DICOMERE Semilla Sesamo Integral x 1Kg 6,417.84 13.00
+P├ígina Nro.: 2
+LISTA DE PRECIOS
+C├ôDIGO DESCRIPCI├ôN PRECIO 0 STOCK
+3 LECHES
+78 TRATENFU Leche de Almendra Original 3,585.49 80.00
+80 TRATENFU Leche de Alm/Coco x 1Lts 3,585.49 18.00
+223 MK Leche de Coco x 1KG 19,006.12 9.00
+291 COCOON Leche Almendra Original x1 lts 3,814.97 80.00
+292 COCOON Leche Almendra Sin Azucar x1 lts 3,814.97 6.00
+293 BIBA Leche Almendra x 500ml 1,258.40 23.00
+295 COCOON Leche De Coco x1 lts 3,814.97 91.00
+390 TRATENFU Leche de Almedra/Chocolate 3,585.49 0.00
+982 BIBA Leche Avena S/A x 500ml 1,001.70 54.00
+983 BIBA Leche de Almendra S/A x 1Lts 2,364.90 0.00
+984 BIBA Leche de Avena x 1Lts 1,375.65 78.00
+986 BIBA Leche de Quinoa x 1Lts 2,364.90 72.00
+1444 TRATENFU Leche de Coco x 1Lts 3,585.49 35.00
+1445 TRATENFU Leche de Alm Original x 500cc 1,942.14 17.00
+1532 PAMPA VIDA Leche Almendra Original x 1Lt 3,423.16 138.00
+1533 PAMPA VIDA Leche Nuez Pecan x 1Lt 3,423.16 47.00
+1534 PAMPA VIDA Yogucream Frutilla x 1Lts 3,769.16 2.00
+1535 PAMPA VIDA Leche Almendra S/Azucar x 1Lt 3,423.16 73.00
+1537 PAMPA VIDA Leche de Mani C/Chocolate x1 995.71 0.00
+4 FIDEOS
+100 BLUE PATNA Fideos Codito x 500Gr 3,734.90 26.00
+101 BLUE PATNA Fideos Dedalitos x 500Gr 3,734.90 35.00
+102 BLUE PATNA Fideos Fetuccinni x 500Gr 3,734.90 20.00
+103 BLUE PATNA Fideos Mostachole x 500Gr 3,734.90 44.00
+104 BLUE PATNA Fideos Spaghetti x 500Gr 3,734.90 8.00
+105 BLUE PATNA Fideos Tirabuzon x 500Gr 3,734.90 21.00
+225 CERAL Fideos Integrales con Morron 2,020.04 123.00
+226 CERAL Fideos Integrales con Espinaca 2,020.04 122.00
+227 CERAL Fideos Integrales Naturales 2,020.04 100.00
+228 CERAL Fideos Light con Morron x 300gr 1,836.34 18.00
+229 CERAL Fideos Light con Espinaca x 300gr 1,836.34 6.00
+230 CERAL Fideos Light Naturales x 300gr 1,836.34 11.00
+516 MI FIDEO Fideos Integrales x 227gs 1,242.98 39.00
+990 PARTY Fideos FINO de Espinaca x 280gr 2,563.63 60.00
+991 PARTY Fideos FINO de Morron x 280gr 2,563.63 56.00
+992 PARTY Fideos FINO Natural x 280gr 2,563.63 50.00
+P├ígina Nro.: 3
+LISTA DE PRECIOS
+C├ôDIGO DESCRIPCI├ôN PRECIO 0 STOCK
+1004 PARTY Fideos GRUESO Natural x 280gr 2,414.24 26.00
+1005 PARTY Fideos GRUESO de Morron x 280gr 2,414.24 44.00
+1006 PARTY Fideos GRUESO de Espinaca x 280gr 2,414.24 50.00
+1407 EMILIA Fideos Integrales Tirabuzon x500g 1,108.65 61.00
+1408 EMILIA Fideos Integrales Penne x500g 1,450.70 14.00
+1409 EMILIA Fideos Integrales Nido x500g 1,234.38 57.00
+1635 MI FIDEO Fideos Integral Morron x227gs 1,242.98 49.00
+1636 MI FIDEO Fideos Integral Espinaca x227gs 1,242.98 43.00
+1779 DO├æA ROSA Fideos Mo├▒os x 400 Grs 3,854.42 40.00
+1780 DO├æA ROSA Fideos Mo├▒os Multivegetal x400 3,899.23 60.00
+1781 DO├æA ROSA Fideos Municiones x 400Grs 3,854.42 35.00
+1785 DO├æA ROSA Fideos Nido Al Huevo x 400Gr 3,734.90 78.00
+1786 DO├æA ROSA Fideos Nido Morron x 400Gr 3,854.42 61.00
+1787 DO├æA ROSA Fideos Nido Espinaca x 400Gr 3,854.42 82.00
+1788 DO├æA ROSA Fideos Nido Multivegetal x 400 3,899.23 120.00
+1789 DO├æA ROSA Fideos Codito x 400Gr 3,376.35 46.00
+1790 DO├æA ROSA Fideos Fusilli x 400Gr 3,376.35 51.00
+1791 DO├æA ROSA Fideos Rigatoni x 400Gr 3,376.35 41.00
+1792 DO├æA ROSA Fideos Dedalito x 400Gr 3,376.35 44.00
+1793 DO├æA ROSA Fideos Penne Rigate x 400Gr 3,376.35 29.00
+1794 DO├æA ROSA Fusilli Multivegetal x 400Gr 3,899.23 36.00
+1795 DO├æA ROSA Fideos Cabello Angel x 400Gr 3,854.42 64.00
+1796 DO├æA ROSA Fideos Yemitas x 400Gr 3,734.90 48.00
+1797 DO├æA ROSA Fideos ├æoquis x400grs 3,376.35 43.00
+1798 DO├æA ROSA Fideos ├æoquis Multivegetales 3,899.23 39.00
+1905 DONINAS Tirabuzon Tradicional x 400Gr 2,437.49 51.00
+1906 DONINAS Tirabuzon Vegetales x 400Gr 2,437.49 48.00
+1907 DONINAS Tirabuzon Multicereal x 400Gr 2,437.49 46.00
+3132 CERAL Fideos Tirabuzon Natural x300g 2,020.04 6.00
+3133 CERAL Fideos Tirabuzon Espinaca x300g 2,020.04 69.00
+3134 CERAL Fideos Tirabuzon Morron x 300g 2,020.04 78.00
+5 LEGUMBRES
+108 AGROMAR Lenteja x 5Kg 12,303.19 16.00
+109 AGROMAR Lentejon x 5Kg 13,759.20 26.00
+110 AGROMAR Garbanzo Extra x 5KG 9,391.54 11.00
+119 AGROMAR Trigo Pelado Candeal x 5Kg 8,664.81 13.00
+120 AGROMAR Poroto Adzuki x 5Kg 10,119.20 1.00
+121 AGROMAR Poroto Colorado x 5Kg 13,759.17 0.00
+P├ígina Nro.: 4
+LISTA DE PRECIOS
+C├ôDIGO DESCRIPCI├ôN PRECIO 0 STOCK
+122 AGROMAR Poroto Alubia Extra x 5Kg 18,200.00 18.00
+123 AGROMAR Arveja Partida x 5Kg 5,725.72 17.00
+124 AGROMAR Arveja Entera x 5Kg 3,931.20 17.00
+630 DICOMERE Porotos Pallares x 5Kg 34,753.20 0.00
+974 AGROMAR Poroto Negro x 5Kg 13,031.94 9.00
+975 AGROMAR Maiz Partido Blanco x 5Kg 14,415.94 3.00
+987 AGROMAR Maiz Pissingallo x 5Kg 4,731.99 7.00
+1526 AGROMAR Poroto Mung x5kg 9,463.99 13.00
+1656 AGROMAR Cebada Perlada x 5Kg 8,737.65 9.00
+2347 VIENTO NORTE Porotos Pallares x 5 kg 36,368.80 7.00
+2359 VIENTO NORTE Lenteja Turca Roja x5kg 24,499.80 9.00
+6 STEVIA
+560 DULRY Stevia x 120cc 3,405.65 546.00
+561 DULRY Stevia x 50 sobres 1,850.55 358.00
+562 DULRY Stevia x 100 sobres 2,833.08 47.00
+2100 CRECIENTE Edulcorante Clasico x 250cc 1,107.77 0.00
+2145 JUAL Stevia x 100 Sobres 3,201.94 35.00
+2146 JUAL Stevia Liquida x 60cc 2,070.61 86.00
+2150 JUAL Stevia Liquida x 125cc 2,997.15 39.00
+2151 JUAL Stevia Liquida x 250cc 4,619.65 79.00
+2152 JUAL Stevia Liquida x 600cc 9,630.70 72.00
+2153 JUAL Stevia Polvo Frasco x 110Gr 4,357.87 34.00
+2154 JUAL Stevia Polvo DOYPACK x 220Gr 6,876.69 46.00
+2155 JUAL Xilitol BEST x 200grs 9,455.62 33.00
+7 OTROS
+3 CERRO AZUL Bocadito Chocolate S/A 9,964.96 20.00
+11 ESPECIAS 537 Bicarbonato x 1Kg 9,684.60 23.00
+19 VIENTO NORTE Coco en Escama x 1Kg 17,529.51 0.00
+30 LEVEX Levadura x 25 Sobre de 2Unid x 10g 18,562.49 27.00
+32 Miel Con Carpincho x 385grs 100% Natural 1,435.22 1,088.00
+33 Chocolate AGUILA Taza 1 Kg 25,282.40 11.00
+34 Rockets Chocolate x 1kg 20,919.59 18.00
+150 DICOMERE Cacao Amargo Repostero x 1Kg 13,826.23 4.00
+218 DICOMERE Soja Texturizada VEGAN x 350Gr 1,202.72 14.00
+219 DICOMERE Cafe Verde en Granos x 1Kg 26,791.34 2.00
+224 MK Aceite de Oregano x 45cc 4,338.33 133.00
+258 Manteca Clarificada x 300Gr COW┬┤SPURE 10,398.88 21.00
+P├ígina Nro.: 5
+LISTA DE PRECIOS
+C├ôDIGO DESCRIPCI├ôN PRECIO 0 STOCK
+271 Manteca Clarificada x 150gr COW┬┤SPURE 4,852.46 3.00
+281 CELIDARINA Sustituto Vegetal Huevo x 200 4,669.81 0.00
+388 Aceite de Oregano x 10Ml RR 5,272.79 20.00
+389 Aceite de Oregano x 30ml RR 10,249.20 44.00
+397 MYLEN Pan Integral Tradicional x500grs 2,226.29 47.00
+398 MYLEN Pan Integral Con Avena x500grs 2,226.29 15.00
+399 MYLEN Pan Integral Con Semillas x500grs 2,226.29 1.00
+445 Coco Rallado x 2.5Kg LOW FAT 18,331.50 22.00
+446 Bicarbonato de Sodio x 2Kg SUELTO 12,446.76 0.00
+468 DICOMERE Rebozador x 450 Grs 2,337.50 174.00
+485 CRECIENTE Colageno Bebible x 15 sobres 9,090.84 0.00
+520 Maca Negra x 150 gr KALLPA 1,647.36 76.00
+522 Maca Rubia x 500 gr KALLPA 1,815.00 73.00
+524 Maca Negra x 500 gr KALLPA 2,314.13 113.00
+575 DICOMERE Albumina de Huevo x 120 gr 9,165.54 1.00
+578 DICOMERE Polvo para Hornear x 250 gr 1,698.14 0.00
+582 DICOMERE Polvo para Hornear x 1Kg 4,121.92 -3.00
+650 DICOMERE Coco Rallado x 1Kg 10,003.96 39.00
+652 DICOMERE Bicarbonato de Sodio x 1Kg 3,347.83 62.00
+782 DICOMERE Cafe de Algarroba x 200gr 2,985.83 0.00
+783 DICOMERE Bicarbonato de Sodio x 200Gr 1,379.73 20.00
+855 ESPECIAS 537 Esencia de Vainilla x 100cc 849.07 101.00
+860 ESPECIAS 537 Bicarbonato x 2Kg 17,987.26 14.00
+869 DICOMERE Cacao Amargo En Polvo x 200gr 3,658.85 0.00
+876 DICOMERE Garbanzo Texturizado x 350Gr 1,962.44 17.00
+878 DICOMERE Hongos Secos x 250Gr 8,209.19 0.00
+911 CERRO AZUL Bombon de Frutas x45 unid 11,128.98 28.00
+932 ANKAS Hongo Bolletus x 1kg 21,125.07 15.00
+958 DICOMERE Leche de Coco en Polvo x 150Gr 5,069.99 0.00
+995 PARTY Rebozador de Arroz Con Sal x 200gr 2,317.12 15.00
+996 PARTY Rebozador de Arroz Sin Sal x 200g 2,317.12 14.00
+997 PARTY Rebozador de Arroz C/Especias x200 2,444.13 16.00
+998 ARGENDIET Jalea Real x 10grs 7,163.53 1.00
+999 PARTY Batido Sabor Chocolate x 30 sobres 5,618.78 0.00
+1000 PARTY Batido Sabor Vainilla x 30 sobres 5,618.78 1.00
+1014 ARGENDIET Sopa Crema Choclo x 5 Sob. 1,259.40 24.00
+1015 ARGENDIET Sopa Crema Vegetales x 5 Sob. 1,259.40 10.00
+1016 ARGENDIET Sopa Crema Zan-Zap x 5 Sob. 1,259.40 18.00
+1019 ARGENDIET Polen x 100grs 12,580.63 18.00
+P├ígina Nro.: 6
+LISTA DE PRECIOS
+C├ôDIGO DESCRIPCI├ôN PRECIO 0 STOCK
+1052 Tortilla de Quinoa Blanca x 210Gr AIKEN 2,703.99 21.00
+1053 Tortilla de Quinoa Integral x 210Gr AIKE 2,703.99 36.00
+1054 Tortilla de Quinoa y Kale x 210Gr AIKEN 2,703.99 34.00
+1055 Tortilla de Quinoa Semilla x 210Gr AIKEN 2,703.99 30.00
+1066 Levadura de Cerveza Mama Teresa x 1Kg 24,853.40 11.00
+1104 ANANA Rodajas La Confianza x 850grs 5,103.80 78.00
+1105 PIMIENTO Morron La Confianza Lata x 750g 4,759.03 276.00
+1106 PALMITO Entero La Confianza x 800Gr 6,773.53 41.00
+1107 PALMITO Rodaja La Confianza x 800Gr 3,163.68 28.00
+1108 PALMITO En Trozos La Confianza x 800Gr 3,109.60 32.00
+1116 Chip Semiamargo x 1Kg ALPINO 9,315.28 169.00
+1314 CENTURION Bicarbonato x 1Kg 6,013.70 46.00
+1335 CENTURION Gelatina Sin Sabor x 1Kg 23,444.69 5.00
+1345 CENTURION Polvo P/Hornear x 1Kg 4,156.39 23.00
+1391 DICOMERE Arveja Texturizada x 350Gr 2,036.80 8.00
+1410 CHILLWAVE Aceite Puro de CBD x 30ml 11,699.99 0.00
+1415 ESPECIAS 537 Granas Celeste x1kg 3,146.00 7.00
+1416 ESPECIAS 537 Granas Rosas x1kg 3,146.00 11.00
+1418 CHILLWAVE Crema Terapeutica CBD x 50cc 7,800.00 5.00
+1421 CENTURION Gelatina Cereza x 1kg 5,808.52 7.00
+1423 CENTURION Gelatina Anana x 1kg 5,808.52 7.00
+1424 CENTURION Gelatina Naranja x 1kg 5,808.52 7.00
+1425 CENTURION Gelatina Frutilla x1kg 5,808.52 5.00
+1427 CENTURION Flan de Vainilla x 1kg 3,833.71 8.00
+1428 CENTURION Flan de Chocolate x1kg 4,598.41 5.00
+1430 CENTURION Postre de Vainilla x1kg 3,833.71 8.00
+1431 CENTURION Postre de Chocolate x1kg 4,598.43 4.00
+1432 CENTURION Alimento de Cacao x1kg 3,361.50 16.00
+1433 CENTURION Extracto de Vainilla x250cc 1,114.91 111.00
+1454 DICOMERE Psyllium Husk SINTACC x 100Gr 6,866.08 5.00
+1506 ARGENDIET Sopa Crema Veg. S/Sal x 5 Sob. 1,259.40 20.00
+1558 Salsa de Soja x 450cc SAKANASHI 2,927.82 55.00
+1559 Salsa de Soja x 980cc SAKANASHI 4,785.07 22.00
+1629 PROBIOTICOS IKIGAI x 100Ml 8,111.99 24.00
+1680 DELICEL Rebozador SINTACC x 500Gr 2,409.41 119.00
+1710 Maiz Frito Sabor QUESO x1kg 9,687.60 0.00
+1711 Maiz Frito Sabor BBQ x 1kg 10,670.40 3.00
+1712 Maiz Frito Sabor Mostaza y Miel x 1kg 10,670.40 7.00
+1821 Aceite CBD (40%) 20ml CANNAVID 4,056.00 0.00
+P├ígina Nro.: 7
+LISTA DE PRECIOS
+C├ôDIGO DESCRIPCI├ôN PRECIO 0 STOCK
+2352 VIENTO NORTE Quinoa Tricolor x 1kg 9,897.32 0.00
+2365 VIENTO NORTE Soja Texturizada x 3Kg 6,063.55 8.00
+2367 VIENTO NORTE Hibisco GLASE Flores x 1.5K 40,538.10 15.00
+2373 VIENTO NORTE Juliana Diet x 1Kg 17,247.64 10.00
+2531 PAMPA GOURMET Vinagre Manzana Org x 250c 8,110.64 0.00
+2810 OASIS Lata Yerba Mate BEIGE 6,412.81 10.00
+2811 OASIS Lata Yerba Mate BEIGE FLORES 6,412.81 6.00
+2812 OASIS Lata Yerba Mate VERDE 6,412.81 9.00
+2813 OASIS Lata Yerba Mate VERDE FLORES 6,412.81 5.00
+2909 GOD BLEES YOU Jabon de Coco x 100gr 8,182.63 11.00
+3415 CRECIENTE Dulce Solido Batata x 500gr 2,839.19 19.00
+3416 CRECIENTE Dulce Solido F.Rojos x 500gr 2,974.39 0.00
+3417 CRECIENTE Dulce Solido Arandano x 500gr 2,974.39 9.00
+3418 CRECIENTE Dulce Solido Membrillo x 500gr 3,109.59 20.00
+3419 CRECIENTE Dulce Batata Light x 500gr 2,839.19 8.00
+3420 CRECIENTE Dulce Membrillo Light x 500gr 3,109.59 13.00
+4716 CENTURION Pure de Papas Instan. x 1kg 10,067.20 17.00
+8 AZUCARES
+26 Xilitol Suelto x 1Kg 23,797.35 21.00
+27 Eritritol Suelto x 1 Kg 20,840.19 97.00
+140 BALAJU Azucar Mascabo x 5Kg 11,582.99 122.00
+151 DICOMERE Cascarilla Cacao x 2Kg 22,128.02 0.00
+222 MK Azucar organica Rubia x 800gr 2,144.99 10.00
+310 BALAJU Azucar Mascabo x 500grs 1,554.80 51.00
+651 DICOMERE Azucar Organica x 1Kg 4,376.78 1.00
+1334 CENTURION Azucar Negra x 1Kg 2,335.91 22.00
+1414 ESPECIAS 537 Azucar Impalpable x1kg 3,513.01 15.00
+1426 CENTURION Azucar Impalpable x1kg 2,190.64 36.00
+1653 Azucar Organica x 500grs MAMA TERESA 2,342.64 10.00
+1654 Azucar Integral Mascabo x 500GR M.Teresa 2,342.20 24.00
+1809 BROTES Azucar Rubio-Mascabo x 600Gr 2,365.79 30.00
+9 YERBA
+141 KALENA Yerba Mate Tradicional x 500Gr 3,255.49 43.00
+142 KALENA Yerba Mate Despalada x 500Gr 3,909.85 45.00
+683 Yerba Mate c/Arandanos x 500gr OASIS 3,782.29 0.00
+684 Yerba Mate Organica x 500gr OASIS 4,567.49 14.00
+685 Yerba Mate Compuesta x 500gr OASIS 3,913.12 2.00
+P├ígina Nro.: 8
+LISTA DE PRECIOS
+C├ôDIGO DESCRIPCI├ôN PRECIO 0 STOCK
+686 Yerba Mate Tostada x 500gr OASIS 4,567.49 27.00
+873 DICOMERE Yerba Mate Org x 500Gr 5,271.21 2.00
+1554 Yerba Mate Compuesta DETOX OASIS 3,913.12 0.00
+1555 Yerba Mate Premium OASIS 3,913.12 10.00
+1556 Yerba Mate C/Stevia OASIS 3,782.29 0.00
+2390 ROAPIPO Yerba Organica Suave x 500Gr 3,007.34 36.00
+2391 ROAPIPO Yerba Org Tradicional x 500Gr 3,007.34 -1.00
+2392 ROAPIPO Yerba Organica Fuerte x 500Gr 3,007.34 51.00
+2393 ROAPIPO Yerba Organica Hierbas x 500Gr 3,007.34 53.00
+2394 ROAPIPO Yerba Organica Tracional x 1Kg 5,975.83 0.00
+2395 LEGADO Yerba Organica Suave x 500Gr 2,551.68 0.00
+2398 ROAPIPO Yerba Organica Suave x 1kg 5,975.83 0.00
+2399 ROAPIPO Yerba Organica Fuerte x 1kg 5,975.83 16.00
+10 HARINAS
+107 AGROMAR Avena Arrollada Inst. x 5Kg 9,100.00 145.00
+126 AGROMAR Avena Arrollada Gruesa x 5Kilos 10,119.20 6.00
+144 DICOMERE Burgol Grueso x 5Kg 5,124.38 0.00
+202 CELIDARINA Harina de Sorgo x 5Kg 11,694.72 2.00
+203 CELIDARINA H. Integral de Sorgo x 5Kg 11,027.68 11.00
+204 CELIDARINA H. Integral de Sarraceno x 5K 16,701.72 0.00
+282 FEMAG Fecula de Mandioca x10 Kg 19,603.99 7.00
+290 FEMAG Fecula de Mandioca x1kg 2,163.20 5.00
+328 Harina Almendra SIN PIEL (Rebajada) x5Kg 17,326.42 0.00
+329 Harina Almendra CON PIEL (Rebajada) x5KG 16,265.60 0.00
+334 Harina Almendra SIN PIEL (Rebajada) 25KG 84,084.10 0.00
+335 Harina Almendra CON PIEL (Rebajada) 25KG 78,936.02 0.00
+360 Harina Almendra SIN PIEL 100% PURA x1Kg 22,862.31 -1.00
+361 Harina Almendra CON PIEL 100% PURA x1Kg 18,590.00 31.00
+444 Harina Almendra CON PIEL (Rebajada) x1Kg 3,540.20 0.00
+564 CELIDARINA H. de Trigo Sarraceno x 5 kg 17,533.11 9.00
+566 CELIDARINA Harina de Sorgo x 500grs 3,444.48 24.00
+569 CELIDARINA H de Trigo Sarraceno x500grs 4,513.41 17.00
+576 DICOMERE Harina de Arroz x 1 kg 2,268.89 5.00
+577 DICOMERE Harina de Coco x 200 gr 1,880.49 0.00
+584 DICOMERE Fecula de Maiz x 10 kg 17,371.35 1.00
+601 DICOMERE Harina de Garbanzo x 5Kg 5,807.41 0.00
+602 DICOMERE Harina de Trigo Integral x 5Kg 7,402.23 0.00
+603 DICOMERE Avena Gruesa x 350 Grs 2,475.41 23.00
+P├ígina Nro.: 9
+LISTA DE PRECIOS
+C├ôDIGO DESCRIPCI├ôN PRECIO 0 STOCK
+604 DICOMERE Semola de Trigo x 5Kg 14,319.02 3.00
+605 DICOMERE Avena Instantanea x 350 Grs 2,088.63 0.00
+620 DICOMERE Avena Arrollada Fina/Inst x 5Kg 10,680.28 2.00
+621 DICOMERE Avena Arrollada Gruesa x 5Kg 12,074.81 0.00
+653 DICOMERE Harina de Algarroba x 200Gr 3,221.26 10.00
+780 DICOMERE H. Trigo Sarraceno Org. x 450Gr 2,658.90 0.00
+781 DICOMERE Polenta Org. x 450gr 1,155.40 0.00
+785 DICOMERE Fecula de Maiz x 450Gr 1,181.26 0.00
+786 DICOMERE Fecula de Mandioca x 450gr 1,169.69 3.00
+787 DICOMERE Harina de Arroz Yamani x 450gr 1,701.01 0.00
+788 DICOMERE Harina de Quinoa x 200Gr 2,630.06 4.00
+790 DICOMERE Harina de Sorgo x 450gr 2,844.69 10.00
+874 DICOMERE Harina de Lino x 1Kg 3,184.44 3.00
+877 DICOMERE Harina de Trigo Int. Org. x 1Kg 2,336.41 0.00
+961 DICOMERE Fecula de Mandioca x 5Kg 10,745.16 6.00
+970 DICOMERE Harina Paraguaya x 5Kg 5,390.67 0.00
+981 FEMAG Fecula de Mandioca x 25Kg 32,718.40 0.00
+1211 Harina de Coco x 2.5Kg SUELTA 8,424.00 63.00
+1352 Harina de Quinoa x 2Kg AIKEN 20,820.75 0.00
+1393 DICOMERE Harina de Almendra x 200Gr 5,094.95 7.00
+1419 DICOMERE Harina de Avena x 350Grs 2,027.81 0.00
+1420 EMILIA Harina De Trigo Integral x25kg 20,077.35 27.00
+1477 DICOMERE Fecula de Maiz x 25Kg 31,090.41 3.00
+1867 Harina Almendra SIN PIEL (Rebajada) x1Kg 3,771.87 -1.00
+1868 AGROMAR Harina Paraguaya x 5Kg 4,659.20 8.00
+2360 VIENTO NORTE Fecula de Maiz x 5Kg 11,275.26 11.00
+2361 VIENTO NORTE Germen de Trigo x 5Kg 7,030.10 4.00
+2363 VIENTO NORTE Salvado de Trigo Fina x 4Kg 4,692.38 9.00
+2364 VIEN
